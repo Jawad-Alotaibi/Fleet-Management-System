@@ -1,0 +1,2 @@
+firstName: Jawad ;lastName: alotaibi;email: j.alotaibbi@gmail.com;hourlyRate: 45;type: 2;
+firstName: d7mi;lastName: alharbu;email: dodo@gmail.ocm;hourlyRate: 43;type: 3;

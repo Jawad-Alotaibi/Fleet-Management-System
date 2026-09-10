@@ -1,0 +1,14 @@
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/bin/Debug/net10.0/FleetManagementSystem
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/bin/Debug/net10.0/FleetManagementSystem.deps.json
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/bin/Debug/net10.0/FleetManagementSystem.runtimeconfig.json
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/bin/Debug/net10.0/FleetManagementSystem.dll
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/bin/Debug/net10.0/FleetManagementSystem.pdb
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.AssemblyInfoInputs.cache
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.AssemblyInfo.cs
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.csproj.CoreCompileInputs.cache
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.dll
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/refint/FleetManagementSystem.dll
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.pdb
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/FleetManagementSystem.genruntimeconfig.cache
+/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/Debug/net10.0/ref/FleetManagementSystem.dll
