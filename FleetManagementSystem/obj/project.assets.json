@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/FleetManagementSystem.csproj",
+      "projectUniqueName": "/Users/jawad/Documents/Expermints/C#/Fleet-Management-System/Fleet-Management-System/FleetManagementSystem/FleetManagementSystem.csproj",
       "projectName": "FleetManagementSystem",
-      "projectPath": "/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/FleetManagementSystem.csproj",
+      "projectPath": "/Users/jawad/Documents/Expermints/C#/Fleet-Management-System/Fleet-Management-System/FleetManagementSystem/FleetManagementSystem.csproj",
       "packagesPath": "/Users/jawad/.nuget/packages/",
-      "outputPath": "/Users/jawad/Documents/Expermints/C#/FleetManagementSystem/obj/",
+      "outputPath": "/Users/jawad/Documents/Expermints/C#/Fleet-Management-System/Fleet-Management-System/FleetManagementSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jawad/.nuget/NuGet/NuGet.Config"
